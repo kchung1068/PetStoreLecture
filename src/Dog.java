@@ -11,6 +11,7 @@ public class Dog extends Animal {
     }
 
     public String getSound() {
+        sound = "Bark";
         return sound;
     }
 

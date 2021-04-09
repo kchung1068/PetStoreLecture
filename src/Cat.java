@@ -10,6 +10,7 @@ public class Cat extends Animal {
     }
 
     public String getSound() {
+        sound = "Meow";
         return this.sound;
     }
 
